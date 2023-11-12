@@ -24,11 +24,11 @@ MadNet draws inspiration from the ever-growing need for seamless, secure, and sw
 
 6. The encrypted file (enc_filename.mp4) will be generated.
 
-##Usage
+Usage
 This script is designed to provide a secure and efficient method for encrypting large media files.
 
-##Contributing
+Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
 
-##License
+License
 This project is licensed under the MIT License.
